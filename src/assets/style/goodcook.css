@@ -1,0 +1,14 @@
+
+.gridCook .am-grid.am-grid-square .am-grid-item .am-grid-item-content {
+  padding: 0;
+  top: 0;
+  transform: translateY(0%);
+}
+
+.gridCook .am-grid.am-grid-square .am-grid-item:before {
+    padding-bottom: 170px;
+}
+.gridCook .am-grid.am-grid-line .am-flexbox {
+
+  height: 2.25rem;
+}
